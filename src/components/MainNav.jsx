@@ -18,10 +18,10 @@ function MainNav() {
         <a className="nav-link text-white" href="#generator">Generate</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link text-white" href="#">Share</a>
+        <a className="nav-link text-white" href="#share">Share</a>
       </li>
       <li className="nav-item">
-        <a className="nav-link text-white" href="/portfolio">Contact Developer</a>
+        <a className="nav-link text-white" href="https://www.l1gend.ml/portfolio">Contact Developer</a>
       </li>
     </ul>
   </div>
